@@ -1,0 +1,1 @@
+A beginner Flask API project built with Marshmallow and SQLAlchemy
